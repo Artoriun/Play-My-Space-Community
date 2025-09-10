@@ -1,0 +1,18 @@
+1.6
+- Added the RTSimpleOccluder component (to import from a collider component)
+- It is optimized to build convex data from a mesh
+
+1.5
+- Setting windows (aka portal) on the occluder
+
+1.4
+- Added Underground Bottom flags (occluder where bottom is contacted the ground)
+- Fixed Convex Caculation Error
+
+1.3
+- Improved API of the occluder, the occludee
+- Features : Bake LOD Mesh with occlusiuon culling (UnityMeshSimplifier integrated (https://github.com/Whinarn/UnityMeshSimplifier)
+- Minor Optimization
+
+1.2
+- Features : Stereoscopic(VR) Support

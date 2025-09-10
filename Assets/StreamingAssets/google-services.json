@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320743337633",
+    "project_id": "linen-mapper-323207",
+    "storage_bucket": "linen-mapper-323207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320743337633:android:8c6647e4acd3d9e7118ae0",
+        "android_client_info": {
+          "package_name": "com.PlayMySpace.World"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320743337633-3okcp39mrfhe2unv9doi9qu7p5q57lc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PlayMySpace.World",
+            "certificate_hash": "a3e0ff68db70a2c581be00da99572f887f4a7008"
+          }
+        },
+        {
+          "client_id": "320743337633-abk0ib453ik1e18e9188iklhqlp3ako7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PlayMySpace.World",
+            "certificate_hash": "dc4ddd672cd0335bfcb057a02bab342761026fc2"
+          }
+        },
+        {
+          "client_id": "320743337633-8rd7p1hcfeo7snn5mkblci0qfpgogtt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRHjLERRgMo6DaJTp-ImIUtPPlwg5y5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320743337633-8rd7p1hcfeo7snn5mkblci0qfpgogtt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
