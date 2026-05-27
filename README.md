@@ -1,4 +1,5 @@
-<iframe src="https://drive.google.com/file/d/1L7m3LTbBMIwC7F61jswSGbWrZagaaakW/preview" width="100%" height="480"></iframe>
+[![Watch the Video](https://raw.githubusercontent.com/indentlabs/notebook/master/img/play-video.png)](https://drive.google.com/file/d/1L7m3LTbBMlwC7F61jswSGbWrZagaakW/view?usp=sharing)
+
 
 # Play My Space Community (PMSC)
 
