@@ -1,5 +1,4 @@
-[![Watch the Video](https://raw.githubusercontent.com/indentlabs/notebook/master/img/play-video.png)](https://drive.google.com/file/d/1L7m3LTbBMlwC7F61jswSGbWrZagaakW/view?usp=sharing)
-
+https://github.com/user-attachments/assets/31e17db4-a4b8-4ab1-8619-9785b171a4c1
 
 # Play My Space Community (PMSC)
 
