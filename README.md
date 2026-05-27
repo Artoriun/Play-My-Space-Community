@@ -6,6 +6,7 @@ https://github.com/user-attachments/assets/31e17db4-a4b8-4ab1-8619-9785b171a4c1
 ## AR Pet Raising Demo Video
 https://github.com/user-attachments/assets/5e5cd5d7-b153-4f54-b30c-cd8be590c754
 
+## Description
 Play My Space Community (PMSC) is an online location-based game designed for kids aged five to twelve, playable on mobile gaming devices that support augmented reality (AR) and GPS. PMSC allows players to build online local communities and interact with each other through social activities and minigames that encourage friendly communication and collaboration.
 
 Unlike most mobile games that focus on fun or ease of play through microtransactions and the freemium model, PMSC emphasizes socializing and teamwork. Players are rewarded with new items and upgrades for their online persona, their own personal “space,” and their local community by working together and engaging in positive social interactions.
